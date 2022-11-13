@@ -24,7 +24,7 @@ User Login App is a simple login app which allows the user to login if it matche
 I used HTML5,CSS3,Javascript and ReactJS to achieve the full functionality of the project.
 
 ## Approach
-This project focuses on react hooks like useEffect,useState and useReducer to achieve the core functionalties of the app
+This project focuses on react hooks like useEffect,useState,useReducer and useContext to achieve the core functionalties of the app.
 ## Setup
 
 ## Getting Started with Create React App
