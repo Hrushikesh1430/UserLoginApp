@@ -1,5 +1,5 @@
 # Project Title
-Course Manager 
+User Login App
 
 ## Demo link:
 Preview link -  https://coursemanager.netlify.app/
