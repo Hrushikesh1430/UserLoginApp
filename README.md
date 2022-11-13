@@ -18,7 +18,12 @@ Preview link -  https://simple-user-login.netlify.app/
 User Login App is a simple login app which allows the user to login if it matches certain conditions for the userInput
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/61748949/201510266-61cfad12-b5ce-4398-933c-db1d4e949a79.png)
+![image](https://user-images.githubusercontent.com/61748949/201519459-329739e0-4a9a-4ce1-bea7-e137564ae7d7.png)
+
+![image](https://user-images.githubusercontent.com/61748949/201519492-5bba3620-1a38-4194-ba6c-87e488aeb01c.png)
+
+![image](https://user-images.githubusercontent.com/61748949/201519482-107d8e7d-829d-4edf-8c87-4e8c94b68e6d.png)
+
 
 ## Technologies
 I used HTML5,CSS3,Javascript and ReactJS to achieve the full functionality of the project.
